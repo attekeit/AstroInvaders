@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+# misc files in my folder
+cpudiag.asm
+cpudiag.bin
+invaders*
+list_needed_hexcodes.py
+test.bin
+unique_comms_list.txt
+8080*
+.vscode

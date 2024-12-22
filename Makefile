@@ -15,6 +15,5 @@ CFLAGS = -g -O0 $(INCLUDE)# Flag for implicit rules. Turn on debug info
 emulator: emulator.o
 	$(CC)  -o emulator emulator.o $(LIBS)
 
-
 clean:
 	rm -f emulator emulator.o
